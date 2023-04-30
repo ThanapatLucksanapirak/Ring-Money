@@ -1,2 +1,2 @@
-{"PUV":"1.1.3","topic":"Update 1.1.3 - Update System and Logo Change","LinkEmbed": "https://www.icloud.com/shortcuts/525e5047f9dc437b9ce8ec8e1e5a3594","details":"Update 1.1.3 
-Logo change and fixed updating system. Thank you INDS | IN Development Studios."}
+{"PUV":"1.1.4","topic":"Update 1.1.4 - Beta","LinkEmbed": "false","details":"Update 1.1.4
+A update to make it work Thank you INDS | IN Development Studios."}
