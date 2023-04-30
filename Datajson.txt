@@ -1,2 +1,1 @@
-{"PUV":"1.1.4","topic":"Update 1.1.4 - Beta","LinkEmbed": "false","details":"Update 1.1.4
-A update to make it work Thank you INDS | IN Development Studios."}
+{"PUV":"1.1.4","topic":"Update 1.1.4 - Beta","LinkEmbed": "false","details":"Update 1.1.4 A update to make it work Thank you INDS | IN Development Studios."}
